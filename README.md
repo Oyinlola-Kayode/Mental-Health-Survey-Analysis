@@ -100,7 +100,9 @@ Key visuals in the dashboard include:
   - Young (60%)  
   - Middle-aged (38%)  
   - Old (2%)  
-- Interactive filters and slicers for user exploration  
+- Interactive filters and slicers for user exploration
+![My Visual](visual/visual.png)
+
 
 ---
 
